@@ -1,0 +1,15 @@
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/bin/Debug/net9.0/CalculatorApp
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/bin/Debug/net9.0/CalculatorApp.deps.json
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/bin/Debug/net9.0/CalculatorApp.runtimeconfig.json
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/bin/Debug/net9.0/CalculatorApp.dll
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/bin/Debug/net9.0/CalculatorApp.pdb
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfo.cs
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.sourcelink.json
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.dll
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/refint/CalculatorApp.dll
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.pdb
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/CalculatorApp.genruntimeconfig.cache
+/Users/kanatsejtov/Desktop/calculate/CalculatorApp/obj/Debug/net9.0/ref/CalculatorApp.dll
