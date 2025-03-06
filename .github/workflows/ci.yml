@@ -21,13 +21,13 @@ jobs:
           dotnet-version: '7.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore CalculatorApp/CalculatorApp.csproj
 
       - name: Build project
-        run: dotnet build --no-restore
+        run: dotnet build CalculatorApp/CalculatorApp.csproj --no-restore
 
-      - name: Run tests (если у тебя есть тесты, иначе можешь удалить этот шаг)
-        run: dotnet test --no-build --verbosity normal
+      - name: Run tests
+        run: dotnet test CalculatorTests/CalculatorTests.csproj --no-build --verbosity normal
 
   deploy:
     needs: build
@@ -42,9 +42,9 @@ jobs:
           dotnet-version: '7.0.x'
 
       - name: Publish application
-        run: dotnet publish -c Release -o out
+        run: dotnet publish CalculatorApp/CalculatorApp.csproj -c Release -o out
 
-      - name: Deploy (пример копирования файлов в папку)
+      - name: Deploy
         run: |
           mkdir -p ~/deploy
           cp -r out/* ~/deploy/
